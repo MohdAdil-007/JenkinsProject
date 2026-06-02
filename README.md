@@ -215,14 +215,10 @@ spring.thymeleaf.suffix=.html
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👨‍💻 Author
 
-**Mohammad Hadi Shukoor**
-- Student ID: 1230120
+**Mohammed Adil**
+- Student ID: 12320388
 - Course: B.Tech Information Technology
 - Project: DevOps CI/CD Pipeline Implementation
 
